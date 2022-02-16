@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, I'm zlewchan 👋
+---
+> My pronouns are **he/him**
 
-<!--
-**zlewchan/zlewchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Something about me:
+- I'm using `miatoll` (Redmi Note 9 Pro Global/joyeuse)
+- I'm neither specially talented or clever, I just like messing around
+- Snapdragon my beloved
+- I'm quite friendly, however I'm not a customer support
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### miatoll
+Yeah, I'm just a buildot maintaining a very popular device. I'm maintaining [Project Streak](https://projectstreak.pl/ "Project Streak") on it.
