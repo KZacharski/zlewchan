@@ -1,4 +1,4 @@
-<img algin="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zlewchan&theme=dark">
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zlewchan&theme=dark">
 
 ### Hi there, I'm zlewchan 👋
 - My pronouns are **he/him**
