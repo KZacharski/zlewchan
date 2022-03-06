@@ -1,6 +1,7 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zlewchan&theme=dark">
 
 ### Hi there, I'm zlewchan 👋
+---
 - My pronouns are **he/him**
 - I'm 15 something
 - I like EDM and the letter h
